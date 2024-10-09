@@ -15,7 +15,7 @@ public class FisDockerApplication {
 	
 	@GetMapping("/")
 	 public String getMessage() {
-	 return "Welcome to FIS Docker App";
+	 return "Welcome to FIS Spring Integration with Jenkins App";
 	 }
 	
 
